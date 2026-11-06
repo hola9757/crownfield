@@ -1,0 +1,81 @@
+erDiagram
+    speciality {
+        int speciality_id PK
+        varchar speciality_name UK
+    }
+    patient {
+        varchar patient_id PK
+        varchar first_name
+        varchar last_name
+        varchar postcode
+        date date_of_birth
+        varchar phone
+        varchar email UK
+        timestamp created_at
+    }
+    clinician {
+        int clinician_id PK
+        varchar first_name
+        varchar last_name
+        int speciality_id FK
+        varchar email UK
+    }
+    clinic {
+        int clinic_id PK
+        varchar clinic_name UK
+        varchar address
+    }
+    appointment {
+        int appointment_id PK
+        varchar patient_id FK
+        int clinician_id FK
+        int clinic_id FK
+        date appointment_date
+        time appointment_time
+        varchar notes
+        varchar status
+    }
+    diagnosis {
+        int diagnosis_id PK
+        int appointment_id FK
+        varchar diagnosis_name
+        varchar diagnosis_notes
+    }
+    medicine {
+        int medicine_id PK
+        varchar medicine_name UK
+    }
+    prescription {
+        int prescription_id PK
+        int appointment_id FK
+        date prescription_date
+    }
+    prescription_item {
+        int prescription_id PK, FK
+        int medicine_id PK, FK
+        varchar dose
+        varchar route
+        varchar frequency
+        int duration_days
+    }
+    follow_up {
+        int follow_up_id PK
+        int appointment_id FK, UK
+        date due_date
+        varchar priority
+        varchar status
+    }
+    patient_account {
+        varchar login_name PK
+        varchar patient_id FK
+    }
+    speciality ||--o{ clinician : primary_speciality
+    patient ||--o{ appointment : attends
+    clinician ||--o{ appointment : conducts
+    clinic ||--o{ appointment : hosts
+    appointment ||--o{ diagnosis : results_in
+    appointment ||--o{ prescription : issues
+    prescription ||--|{ prescription_item : contains
+    medicine ||--o{ prescription_item : appears_in
+    appointment ||--o| follow_up : generates
+    patient ||--o{ patient_account : maps_login
