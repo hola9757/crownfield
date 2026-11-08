@@ -1,6 +1,6 @@
 # Recorded MySQL execution results 7 November 2026
 
-Transcribed from student-supplied Terminal output. This is not a screenshot or a fresh independent execution.
+this Results transcribed from the MySQL Terminal output and  All 14 tests matched the expected values, The separate fresh-setup test passed.  see FRESH_SETUP_EXECUTION_20261108.md.
 
 | Test | Actual | Expected |
 | --- | --- | --- |
