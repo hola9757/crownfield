@@ -1,0 +1,1 @@
+Execution images retain their original query/results. Seed-data captures precede the Appendix import and are labelled accordingly in the report. The LEFT JOIN execution is included as a cropped image in the report. NOV7_EXECUTION_RESULTS.md and NOV8_APPENDIX_IMPORT.md distinguish transcribed output from screenshots. No password-reset screenshots belong in the repository.

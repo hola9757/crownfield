@@ -1,0 +1,6 @@
+source_row,patient_id,patient_name,postcode,clinician_name,speciality_name,clinic_name,appointment_date,appointment_time,diagnosis_name,medicines_text,follow_up_text,source_notes
+1,OP001,Amina Yusuf,NE1 4AB,Dr Maya Shah,Glaucoma,City Road,2026-10-05,09:00:00,Ocular hypertension,Latanoprost | Timolol,6 weeks | High,Review IOP
+2,OP002,Daniel Reed,N16 7QP,Dr Leo Grant,Retina,City Road,2026-10-05,09:30:00,Diabetic macular oedema,Aflibercept,4 weeks | Urgent,OCT before review
+3,OP001,Amina Yusuf,NE1 4AB,Dr Maya Shah,Glaucoma,Bedford,2026-11-16,10:15:00,Ocular hypertension,Latanoprost,12 weeks | Routine,Visual field test
+4,OP003,Sofia Bennett,E8 2LD,Dr Maya Shah,Glaucoma,City Road,2026-10-06,11:00:00,Glaucoma suspect,None,26 weeks | Routine,Monitor
+5,OP004,Michael Okoro,SE6 3RT,Dr Priya Nair,Cornea,Croydon,2026-10-07,14:00:00,Keratoconus,Sodium chloride drops,8 weeks | Routine,Corneal topography

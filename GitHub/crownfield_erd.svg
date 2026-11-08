@@ -1,0 +1,378 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2220" height="1510" viewBox="0 0 2220 1510">
+<rect width="100%" height="100%" fill="white"/>
+<text x="60" y="45" font-family="DejaVu Sans" font-size="31" fill="#172d40" font-weight="700">Crownfield Eye Hospital</text>
+<text x="60" y="78" font-family="DejaVu Sans" font-size="21" fill="#526a7b" font-weight="400">Entity relationship diagram</text>
+<text x="1280" y="77" font-family="DejaVu Sans" font-size="19" fill="#526a7b" font-weight="400">PK  Primary key     FK  Foreign key     UK  Unique</text>
+<polyline points="1040,178 1180,178" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1050.0,188.0 1050.0,168.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1061.0,188.0 1061.0,168.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,189.0 1158.0,178.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,178.0 1158.0,178.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,167.0 1158.0,178.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="1145.0" cy="178.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1390,318 1390,410 830,410 830,590" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1380.0,328.0 1400.0,328.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1380.0,339.0 1400.0,339.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="819.0,590.0 830.0,568.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="830.0,590.0 830.0,568.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="841.0,590.0 830.0,568.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="830.0" cy="555.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1950,262 1950,450 1090,450 1090,705 1040,705" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1940.0,272.0 1960.0,272.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1940.0,283.0 1960.0,283.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1040.0,694.0 1062.0,705.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1040.0,705.0 1062.0,705.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1040.0,716.0 1062.0,705.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="1075.0" cy="705.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="270,402 270,460 550,460 550,650 620,650" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="260.0,412.0 280.0,412.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="260.0,423.0 280.0,423.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="620.0,661.0 598.0,650.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="620.0,650.0 598.0,650.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="620.0,639.0 598.0,650.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="585.0" cy="650.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="270,402 270,590" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="260.0,412.0 280.0,412.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="260.0,423.0 280.0,423.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="259.0,590.0 270.0,568.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="270.0,590.0 270.0,568.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="281.0,590.0 270.0,568.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="270.0" cy="555.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1040,785 1110,785 1110,685 1180,685" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1050.0,795.0 1050.0,775.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1061.0,795.0 1061.0,775.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,696.0 1158.0,685.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,685.0 1158.0,685.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,674.0 1158.0,685.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="1145.0" cy="685.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="830,882 830,1190" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="820.0,892.0 840.0,892.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="820.0,903.0 840.0,903.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="819.0,1190.0 830.0,1168.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="830.0,1190.0 830.0,1168.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="841.0,1190.0 830.0,1168.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="830.0" cy="1155.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="620,815 530,815 530,1090 270,1090 270,1190" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="610.0,805.0 610.0,825.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="599.0,805.0 599.0,825.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="280.0,1180.0 260.0,1180.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="270.0" cy="1164.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1040,1260 1180,1260" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1050.0,1270.0 1050.0,1250.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1061.0,1270.0 1061.0,1250.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,1271.0 1158.0,1260.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,1260.0 1158.0,1260.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1180.0,1249.0 1158.0,1260.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1145.0,1250.0 1145.0,1270.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1740,1260 1600,1260" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1730.0,1250.0 1730.0,1270.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1719.0,1250.0 1719.0,1270.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1600.0,1249.0 1622.0,1260.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1600.0,1260.0 1622.0,1260.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1600.0,1271.0 1622.0,1260.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="1635.0" cy="1260.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1040,845 1740,845" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1050.0,855.0 1050.0,835.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="1066.0" cy="845.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<polyline points="1730.0,835.0 1730.0,855.0" fill="none" stroke="#526a7b" stroke-width="2.6"/>
+<circle cx="1714.0" cy="845.0" r="7" fill="white" stroke="#526a7b" stroke-width="2.6"/>
+<rect x="60" y="110" width="420" height="292" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="60" y="110" width="420" height="40" fill="#183b53"/>
+<text x="74" y="138" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">patient</text>
+<rect x="60" y="150" width="420" height="28" fill="#e8eef2"/>
+<text x="70" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="138" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="345" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="70" y="198" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="138" y="198" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">patient_id</text>
+<text x="345" y="198" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(10)</text>
+<rect x="61" y="206" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="226" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="226" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">first_name</text>
+<text x="345" y="226" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(50)</text>
+<text x="70" y="254" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="254" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">last_name</text>
+<text x="345" y="254" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(50)</text>
+<rect x="61" y="262" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="282" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="282" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">postcode</text>
+<text x="345" y="282" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(10)</text>
+<text x="70" y="310" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="310" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">date_of_birth</text>
+<text x="345" y="310" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">DATE</text>
+<rect x="61" y="318" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="338" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="338" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">phone</text>
+<text x="345" y="338" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(20)</text>
+<text x="70" y="366" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">UK</text>
+<text x="138" y="366" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">email</text>
+<text x="345" y="366" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(100)</text>
+<rect x="61" y="374" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="394" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="394" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">created_at</text>
+<text x="345" y="394" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">TIMESTAMP</text>
+<rect x="620" y="110" width="420" height="124" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="620" y="110" width="420" height="40" fill="#183b53"/>
+<text x="634" y="138" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">speciality</text>
+<rect x="620" y="150" width="420" height="28" fill="#e8eef2"/>
+<text x="630" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="698" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="905" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="630" y="198" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="698" y="198" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">speciality_id</text>
+<text x="905" y="198" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="621" y="206" width="418" height="28" fill="#f6f8fa"/>
+<text x="630" y="226" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">UK</text>
+<text x="698" y="226" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">speciality_name</text>
+<text x="905" y="226" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(60)</text>
+<rect x="1180" y="110" width="420" height="208" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="1180" y="110" width="420" height="40" fill="#183b53"/>
+<text x="1194" y="138" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">clinician</text>
+<rect x="1180" y="150" width="420" height="28" fill="#e8eef2"/>
+<text x="1190" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="1258" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="1465" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="1190" y="198" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="1258" y="198" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">clinician_id</text>
+<text x="1465" y="198" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="1181" y="206" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="226" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="226" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">first_name</text>
+<text x="1465" y="226" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(50)</text>
+<text x="1190" y="254" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="254" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">last_name</text>
+<text x="1465" y="254" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(50)</text>
+<rect x="1181" y="262" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="282" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="1258" y="282" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">speciality_id</text>
+<text x="1465" y="282" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<text x="1190" y="310" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">UK</text>
+<text x="1258" y="310" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">email</text>
+<text x="1465" y="310" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(100)</text>
+<rect x="1740" y="110" width="420" height="152" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="1740" y="110" width="420" height="40" fill="#183b53"/>
+<text x="1754" y="138" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">clinic</text>
+<rect x="1740" y="150" width="420" height="28" fill="#e8eef2"/>
+<text x="1750" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="1818" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="2025" y="170" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="1750" y="198" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="1818" y="198" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">clinic_id</text>
+<text x="2025" y="198" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="1741" y="206" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="226" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">UK</text>
+<text x="1818" y="226" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">clinic_name</text>
+<text x="2025" y="226" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(80)</text>
+<text x="1750" y="254" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="254" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">address</text>
+<text x="2025" y="254" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(150)</text>
+<rect x="60" y="590" width="420" height="124" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="60" y="590" width="420" height="40" fill="#34495b"/>
+<text x="74" y="618" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">patient_account</text>
+<rect x="60" y="630" width="420" height="28" fill="#e8eef2"/>
+<text x="70" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="138" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="345" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="70" y="678" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="138" y="678" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">login_name</text>
+<text x="345" y="678" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(32)</text>
+<rect x="61" y="686" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="706" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="138" y="706" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">patient_id</text>
+<text x="345" y="706" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(10)</text>
+<rect x="620" y="590" width="420" height="292" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="620" y="590" width="420" height="40" fill="#183b53"/>
+<text x="634" y="618" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">appointment</text>
+<rect x="620" y="630" width="420" height="28" fill="#e8eef2"/>
+<text x="630" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="698" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="905" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="630" y="678" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="698" y="678" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">appointment_id</text>
+<text x="905" y="678" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="621" y="686" width="418" height="28" fill="#f6f8fa"/>
+<text x="630" y="706" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="698" y="706" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">patient_id</text>
+<text x="905" y="706" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(10)</text>
+<text x="630" y="734" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="698" y="734" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">clinician_id</text>
+<text x="905" y="734" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="621" y="742" width="418" height="28" fill="#f6f8fa"/>
+<text x="630" y="762" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="698" y="762" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">clinic_id</text>
+<text x="905" y="762" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<text x="630" y="790" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="698" y="790" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_date</text>
+<text x="905" y="790" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">DATE</text>
+<rect x="621" y="798" width="418" height="28" fill="#f6f8fa"/>
+<text x="630" y="818" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="698" y="818" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_time</text>
+<text x="905" y="818" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">TIME</text>
+<text x="630" y="846" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="698" y="846" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">notes</text>
+<text x="905" y="846" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(255)</text>
+<rect x="621" y="854" width="418" height="28" fill="#f6f8fa"/>
+<text x="630" y="874" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="698" y="874" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">status</text>
+<text x="905" y="874" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(20)</text>
+<rect x="1180" y="590" width="420" height="180" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="1180" y="590" width="420" height="40" fill="#183b53"/>
+<text x="1194" y="618" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">diagnosis</text>
+<rect x="1180" y="630" width="420" height="28" fill="#e8eef2"/>
+<text x="1190" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="1258" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="1465" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="1190" y="678" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="1258" y="678" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">diagnosis_id</text>
+<text x="1465" y="678" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="1181" y="686" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="706" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="1258" y="706" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_id</text>
+<text x="1465" y="706" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<text x="1190" y="734" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="734" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">diagnosis_name</text>
+<text x="1465" y="734" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(100)</text>
+<rect x="1181" y="742" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="762" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="762" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">diagnosis_notes</text>
+<text x="1465" y="762" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(255)</text>
+<rect x="1740" y="590" width="420" height="460" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="1740" y="590" width="420" height="40" fill="#34495b"/>
+<text x="1754" y="618" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">appendix1_source</text>
+<rect x="1740" y="630" width="420" height="28" fill="#e8eef2"/>
+<text x="1750" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="1818" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="2025" y="650" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="1750" y="678" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="1818" y="678" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">source_row</text>
+<text x="2025" y="678" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">SMALLINT</text>
+<rect x="1741" y="686" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="706" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="706" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">patient_id</text>
+<text x="2025" y="706" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(10)</text>
+<text x="1750" y="734" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="734" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">patient_name</text>
+<text x="2025" y="734" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(101)</text>
+<rect x="1741" y="742" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="762" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="762" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">postcode</text>
+<text x="2025" y="762" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(10)</text>
+<text x="1750" y="790" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="790" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">clinician_name</text>
+<text x="2025" y="790" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(110)</text>
+<rect x="1741" y="798" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="818" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="818" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">speciality_name</text>
+<text x="2025" y="818" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(60)</text>
+<text x="1750" y="846" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="846" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">clinic_name</text>
+<text x="2025" y="846" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(80)</text>
+<rect x="1741" y="854" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="874" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="874" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_date</text>
+<text x="2025" y="874" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">DATE</text>
+<text x="1750" y="902" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="902" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_time</text>
+<text x="2025" y="902" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">TIME</text>
+<rect x="1741" y="910" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="930" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="930" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">diagnosis_name</text>
+<text x="2025" y="930" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(100)</text>
+<text x="1750" y="958" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="958" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">medicines_text</text>
+<text x="2025" y="958" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(255)</text>
+<rect x="1741" y="966" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="986" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="986" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">follow_up_text</text>
+<text x="2025" y="986" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(80)</text>
+<text x="1750" y="1014" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1818" y="1014" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">source_notes</text>
+<text x="2025" y="1014" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(255)</text>
+<rect x="1741" y="1022" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="1042" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK UK</text>
+<text x="1818" y="1042" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_id</text>
+<text x="2025" y="1042" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="60" y="1190" width="420" height="208" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="60" y="1190" width="420" height="40" fill="#183b53"/>
+<text x="74" y="1218" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">follow_up</text>
+<rect x="60" y="1230" width="420" height="28" fill="#e8eef2"/>
+<text x="70" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="138" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="345" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="70" y="1278" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="138" y="1278" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">follow_up_id</text>
+<text x="345" y="1278" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="61" y="1286" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="1306" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK UK</text>
+<text x="138" y="1306" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_id</text>
+<text x="345" y="1306" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<text x="70" y="1334" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="1334" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">due_date</text>
+<text x="345" y="1334" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">DATE</text>
+<rect x="61" y="1342" width="418" height="28" fill="#f6f8fa"/>
+<text x="70" y="1362" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="1362" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">priority</text>
+<text x="345" y="1362" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(20)</text>
+<text x="70" y="1390" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="138" y="1390" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">status</text>
+<text x="345" y="1390" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(20)</text>
+<rect x="620" y="1190" width="420" height="152" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="620" y="1190" width="420" height="40" fill="#183b53"/>
+<text x="634" y="1218" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">prescription</text>
+<rect x="620" y="1230" width="420" height="28" fill="#e8eef2"/>
+<text x="630" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="698" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="905" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="630" y="1278" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="698" y="1278" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">prescription_id</text>
+<text x="905" y="1278" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="621" y="1286" width="418" height="28" fill="#f6f8fa"/>
+<text x="630" y="1306" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">FK</text>
+<text x="698" y="1306" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">appointment_id</text>
+<text x="905" y="1306" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<text x="630" y="1334" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="698" y="1334" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">prescription_date</text>
+<text x="905" y="1334" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">DATE</text>
+<rect x="1180" y="1190" width="420" height="236" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="1180" y="1190" width="420" height="40" fill="#183b53"/>
+<text x="1194" y="1218" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">prescription_item</text>
+<rect x="1180" y="1230" width="420" height="28" fill="#e8eef2"/>
+<text x="1190" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="1258" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="1465" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="1190" y="1278" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK FK</text>
+<text x="1258" y="1278" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">prescription_id</text>
+<text x="1465" y="1278" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="1181" y="1286" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="1306" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK FK</text>
+<text x="1258" y="1306" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">medicine_id</text>
+<text x="1465" y="1306" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<text x="1190" y="1334" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="1334" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">dose</text>
+<text x="1465" y="1334" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(50)</text>
+<rect x="1181" y="1342" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="1362" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="1362" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">route</text>
+<text x="1465" y="1362" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(30)</text>
+<text x="1190" y="1390" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="1390" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">frequency</text>
+<text x="1465" y="1390" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(50)</text>
+<rect x="1181" y="1398" width="418" height="28" fill="#f6f8fa"/>
+<text x="1190" y="1418" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700"></text>
+<text x="1258" y="1418" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">duration_days</text>
+<text x="1465" y="1418" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="1740" y="1190" width="420" height="124" fill="white" stroke="#8193a0" stroke-width="1.6"/>
+<rect x="1740" y="1190" width="420" height="40" fill="#183b53"/>
+<text x="1754" y="1218" font-family="DejaVu Sans" font-size="23" fill="white" font-weight="700">medicine</text>
+<rect x="1740" y="1230" width="420" height="28" fill="#e8eef2"/>
+<text x="1750" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Key</text>
+<text x="1818" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Column</text>
+<text x="2025" y="1250" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="700">Type</text>
+<text x="1750" y="1278" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">PK</text>
+<text x="1818" y="1278" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="700">medicine_id</text>
+<text x="2025" y="1278" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">INT</text>
+<rect x="1741" y="1286" width="418" height="28" fill="#f6f8fa"/>
+<text x="1750" y="1306" font-family="DejaVu Sans" font-size="16" fill="#087c8c" font-weight="700">UK</text>
+<text x="1818" y="1306" font-family="DejaVu Sans" font-size="19" fill="#172d40" font-weight="400">medicine_name</text>
+<text x="2025" y="1306" font-family="DejaVu Sans" font-size="16" fill="#526a7b" font-weight="400">VARCHAR(100)</text>
+</svg>
