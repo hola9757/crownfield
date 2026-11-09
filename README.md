@@ -1,4 +1,6 @@
 # Crownfield Eye Hospital database prototype
+# Iqra Rani g1437202
+
 
 A MySQL relational database for patients, clinicians, clinics, appointments, diagnoses, medicines, prescriptions and follow-up plans in a fictional teaching scenario.
 
