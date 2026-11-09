@@ -1,4 +1,5 @@
 # Crownfield Eye Hospital database
+# g1437202 Iqra Rani
 
 MySQL coursework prototype for the fictional Crownfield Eye Hospital. The ten clinical tables contain ten synthetic seed records each. The additional import contains the five Appendix 1 appointment rows supplied for this project, covering four original patients. The verified combined totals are 14 patients and 15 appointments.
 
