@@ -1,6 +1,3 @@
--- Crownfield Appendix 1: only the five source rows supplied on 8 November.
--- Run in the existing database as root after saving a backup.
--- Existing synthetic records are retained. Reruns recognise imported source rows.
 USE crownfield_eye_hospital;
 
 -- The source gives no dose, route, frequency or treatment duration.
